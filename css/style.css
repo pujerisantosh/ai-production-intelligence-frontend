@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+}
+
+
+
+
+.incident-card {
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+.incident-container {
+  display: flex;
+  gap: 20px;
+}
+
+
+.incident-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  max-width: 500px;
+  flex: 1;
+}
